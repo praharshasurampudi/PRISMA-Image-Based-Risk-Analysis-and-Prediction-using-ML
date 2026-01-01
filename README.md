@@ -1,10 +1,7 @@
-# PRISMA — Image-Based Risk Analysis and Prediction using ML
+# PRISMA 
+## Image-Based Risk Analysis and Prediction using ML
 
-## Overview
-
-**PRISMA** is an end-to-end machine learning pipeline for **medical image–based risk prediction**. The system combines **deep learning–derived image embeddings** with **structured tabular data** to predict patient risk levels, with a strong emphasis on **recall** and **ROC-AUC**, which are critical metrics in clinical screening and risk stratification scenarios.
-
-This repository demonstrates a realistic, production-style workflow that integrates **PyTorch** for image feature extraction and **Scikit-learn** for classical machine learning, evaluation, and decision optimization.
+**PRISMA** is an end-to-end machine learning pipeline for **medical image–based risk prediction**. The system combines **deep learning–derived image embeddings** with **structured tabular data** to predict patient risk levels, with a strong emphasis on **recall** and **ROC-AUC**, which are critical metrics in clinical screening and risk stratification scenarios. This repository demonstrates a realistic, production-style workflow that integrates **PyTorch** for image feature extraction and **Scikit-learn** for classical machine learning, evaluation, and decision optimization.
 
 ---
 
@@ -164,6 +161,6 @@ PRISMA/
 
 ---
 
-## License & Disclaimer
-
+## 📝 License © [Praharsha Surampudi](https://www.linkedin.com/in/praharsha-surampudi/)
 This project is for **educational and portfolio purposes only**. It does **not** provide medical advice or diagnostic capabilities.
+
